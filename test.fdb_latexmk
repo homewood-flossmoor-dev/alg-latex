@@ -1,0 +1,20 @@
+# Fdb version 3
+["pdflatex"] 1666825648 "e:/dev/Alg-Latex/test.tex" "test.pdf" "test" 1666825648
+  "C:/Users/hello/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1666825334 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/hello/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1666825397 10771127 14fafcf82a2f14032814f23131e04656 ""
+  "K:/MiTek/fonts/tfm/public/cm/cmmi12.tfm" 1136768654 1524 4414a8315f39513458b80dfc63bff03a ""
+  "K:/MiTek/fonts/tfm/public/cm/cmr12.tfm" 1136768654 1288 655e228510b4c2a1abe905c368440826 ""
+  "K:/MiTek/fonts/tfm/public/cm/cmr17.tfm" 1136768654 1292 296a67155bdbfc32aa9c636f21e91433 ""
+  "K:/MiTek/fonts/tfm/public/cm/cmsy10.tfm" 1136768654 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "K:/MiTek/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596668 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "K:/MiTek/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
+  "K:/MiTek/tex/latex/base/article.cls" 1657041432 20144 7555b7429d80bef287ebb82117811acc ""
+  "K:/MiTek/tex/latex/base/size12.clo" 1657041432 8449 7fbdc9c8596083427317c1e525489c81 ""
+  "K:/MiTek/tex/latex/l3backend/l3backend-pdftex.def" 1664388628 30426 b4bd1ea7df6c51902df8edf551809fb7 ""
+  "e:/dev/Alg-Latex/test.tex" 1666825648 160 e3c4e1a21d650cdffb04d1705d746760 ""
+  "test.aux" 1666825648 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "test.tex" 1666825648 160 e3c4e1a21d650cdffb04d1705d746760 ""
+  (generated)
+  "test.aux"
+  "test.log"
+  "test.pdf"
